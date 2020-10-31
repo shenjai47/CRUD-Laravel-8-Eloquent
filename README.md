@@ -1,19 +1,12 @@
 # Installation
-✪clone the repo
+▶clone the repo
 $ git clone https://github.com/shenjai47/CoreUI-Vue-Laravel-Bootstrap-Admin-Template.git my-project
-
-✪go into app's directory
-
+▶go into app's directory
 $ cd my-project/laravel
-
-#install app's dependencies
-
+▶install app's dependencies
 $ composer install
-
-#install app's dependencies
-
+▶install app's dependencies
 $ npm install
-
 # If you choose MySQL
 Copy file ".env.example", and change its name to ".env". Then in file ".env" complete this database configuration:
 
