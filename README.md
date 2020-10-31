@@ -28,7 +28,6 @@ DB_DATABASE=laravel
 DB_USERNAME=root
 
 DB_PASSWORD=
-
 # Next step
 ▶generate laravel APP_KEY
 
@@ -49,10 +48,8 @@ $ cd ../coreui
 ▶install app's dependencies
 
 $ npm install
-
 # test usage
 $ php vendor/bin/phpunit
-
 # If you need separate backend and frontend
 ▶back to laravel directory
 
@@ -71,7 +68,6 @@ Open your browser with address: localhost:8080
 If you need change backend adress go to file /coreui/src/main.js And change line:
 
 Vue.prototype.$apiAdress = 'http://127.0.0.1:8000'
-
 # When you have project open in browser
 Click "Login" on sidebar menu and log in with credentials:
 
