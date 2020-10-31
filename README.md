@@ -1,6 +1,8 @@
 # Installation
 #clone the repo
+
 $ git clone https://github.com/shenjai47/CoreUI-Vue-Laravel-Bootstrap-Admin-Template.git my-project
+
 #go into app's directory
 $ cd my-project/laravel
 #install app's dependencies
